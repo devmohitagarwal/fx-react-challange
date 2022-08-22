@@ -1,5 +1,7 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Roboto Flex", serif;
+  background-color: #171f2c;
+  margin: 0px;
 }
 
 header {
@@ -7,7 +9,11 @@ header {
   justify-content: center;
   width: 100%;
   padding: 15px 0;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #1e1e1e;
+  background-color: black;
+}
+header img {
+  filter: invert(1);
 }
 
 nav {
@@ -28,4 +34,3 @@ main section {
   width: 100%;
   max-width: 1200px;
 }
-
