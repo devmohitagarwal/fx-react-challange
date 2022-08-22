@@ -1,5 +1,3 @@
-https://api.themoviedb.org/3/movie/top_rated?api_key=df86f6e81c7bbc0d6f761ceb2af4f219&language=en-GB&page=1
-
 # Take-home challenge instructions
 
 ### Aim of this challenge:
